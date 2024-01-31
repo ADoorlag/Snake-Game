@@ -67,7 +67,7 @@ body,
 
 #highScore{
     color: #d8ddca;
-    display: none;
+    /* display: none; */
 }
 
 .game-border-3, 
