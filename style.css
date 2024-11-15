@@ -47,6 +47,7 @@ body,
     text-transform: capitalize;
     padding: 30px;
     margin: 0;
+    margin-top: 2rem;
 }
 
 .scores{
@@ -67,7 +68,6 @@ body,
 
 #highScore{
     color: #d8ddca;
-    /* display: none; */
 }
 
 .game-border-3, 
